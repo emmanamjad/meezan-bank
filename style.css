@@ -1,0 +1,19 @@
+.meezan{
+position: relative;
+height: 90px;
+z-index: 1px;
+
+}
+.logo
+{
+    color: black;
+    text-decoration: none;
+   
+    
+}
+.bank{
+    text-decoration: none;
+    color: yellow;
+    right: 50px;
+    position: relative;
+}
